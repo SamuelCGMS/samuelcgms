@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=22&duration=3000&color=8A2BE2&width=550&height=60&center=true&lines=Be+welcome;I+am+a+computer+science+student;I'm+a+fullstack+developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=22&duration=3000&color=8A2BE2&width=550&height=60&center=true&lines=Be+welcome;I+am+a+computer+science+student" alt="Typing SVG"/>
 </div>
 
 <hr>
