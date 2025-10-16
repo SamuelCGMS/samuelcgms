@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=22&duration=3000&color=8A2BE2&width=550&height=60&center=true&lines=Be+welcome;I+am+a+computer+science+student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=22&duration=3000&color=8A2BE2&width=550&height=60&center=true&lines=Be+welcome;I+am+a+computer+science+student;I'm+a+fullstack+developer" alt="Typing SVG"/>
 </div>
 
 <hr>
@@ -36,16 +36,7 @@ Hello! My name is Samuel Gomes. I am passionate about technology and development
     </td>
     <td>
       <div align="center">
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br>
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br>
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><br>
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCGMS&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
       </div>
     </td>
   </tr>
@@ -53,9 +44,20 @@ Hello! My name is Samuel Gomes. I am passionate about technology and development
 </div>
 </div>
 
+<hr>
 
-##
+<div align="center">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
 
-<br>
 
 
