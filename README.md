@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=20&duration=1&color=8A2BE2&repeat=false&width=550&height=60&lines=About+Me" alt="About Me Typing SVG"/>
 </div>
 
-Hello! My name is Samuel Gomes. I am passionate about technology and development. I am currently a computer science student and a Software Enginner.
+Hello! My name is Samuel Gomes. I am passionate about technology and development. I am currently a computer science student and a Software Engineer.
       
 <div align="center">
 <a href="mailto:samuelgomes2465@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff"/></a> <a href="https://www.linkedin.com/in/samuel-gomes-68312635b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
