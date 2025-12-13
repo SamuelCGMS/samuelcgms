@@ -40,7 +40,7 @@ I’m a proactive person and I know that college alone isn’t enough, which is 
     </td>
     <td>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCGMS&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+        
       </div>
     </td>
   </tr>
