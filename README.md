@@ -41,10 +41,8 @@ I’m a proactive person and I know that college alone isn’t enough, which is 
     <td>
       <div align="center">
         
-      </div>
-    </td>
-  </tr>
-</table>
+    
+ 
 </div>
 </div>
 
