@@ -18,11 +18,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inknut+Antiqua&weight=900&size=20&duration=1&color=8A2BE2&repeat=false&width=550&height=60&lines=About+Me" alt="About Me Typing SVG"/>
 </div>
 
-Hello! My name is Samuel Gomes. I am passionate about technology and development. I am currently a computer science student and a Software Developer.
+Hello! My name is Samuel Gomes.
 
-What drives me in this field is the challenge of building the logic behind things understanding a real problem and translating it into a system that works.
-To make that happen in practice, I’ve focused on building a solid foundation of tools. My main experience is in back-end development with Java, Spring Boot, and PostgreSQL, but I also have basic front-end knowledge, having developed projects using React, JavaScript, and TypeScript, as well as strong skills in SQL databases. I see technologies as tools to solve problems.
-I’m a proactive person and I know that college alone isn’t enough, which is why I’m always learning and investing in hands-on experience.
+I am a Computer Science student, Software Developer, and DevOps Intern passionate about building software and solving real-world problems through technology.
+
+Currently, I work with software development, automation, Linux environments, Docker, CI/CD pipelines, and observability solutions. I also develop my own projects, including SaaS applications and management systems, participating in the entire development lifecycle from requirements gathering to deployment and support.
+
+My main technologies include TypeScript, Node.js, React, Python, Docker, Git, and SQL databases.
+
+I believe technology is a tool for solving problems, and I am constantly learning, building, and improving my skills through hands-on experience and real-world projects.
       
 <div align="center">
 <a href="mailto:samuelgomes2465@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=fff"/></a> <a href="https://www.linkedin.com/in/samuel-gomes-68312635b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
